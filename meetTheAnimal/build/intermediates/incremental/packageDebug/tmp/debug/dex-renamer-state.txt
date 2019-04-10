@@ -1,0 +1,4 @@
+#Wed Apr 10 11:22:09 KST 2019
+base.0=D\:\\android_studio_workspace\\MeetTheAnimal_Templete\\meetTheAnimal\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

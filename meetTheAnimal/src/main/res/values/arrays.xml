@@ -1,0 +1,107 @@
+<!-- ?xml version="1.0" encoding="utf-8"? -->
+<resources>
+    <string-array name="peopleArray">
+        <item>Great White Shark</item>
+        <item>Mountain Gorilla </item>
+        <item>Nile Crocodile </item>
+        <item>Cheetah</item>
+        <item>Grizzly Bear</item>
+        <item>Gray Wolf</item>
+        <item>Great Horned Owl</item>
+        <item>Walrus</item>
+        <item>Octopus</item>
+        <item>Manta Ray</item>
+        <item>Great Blue Heron</item>
+        <item>Raccoon</item>
+        <item>Siberian Tiger</item>
+        <item>Rattlesnake</item>
+        <item>Peregrine Falcon</item>
+        <item>Giraffe</item>
+        <item>Black Widow Spider</item>
+        <item>Flying Fox</item>
+        <item>African Elephant</item>
+        <item>Eastern Box Turtle</item>
+        <item>Ladybug</item>
+        <item>Porcupine</item>
+        <item>Flamingo</item>
+        <item>Garden Snail</item>
+        <item>Beaver</item>
+        <item>Giant Panda</item>
+        <item>Red Kangaroo</item>
+        <item>Hippopotamus</item>
+        <item>African Lion</item>
+        <item>Zebra</item>
+        <item>Koala</item>
+        <item>Skunk</item>
+        <item>Red-Eyed Tree Frog</item>
+        <item>Land Hermit Crab</item>
+        <item>Camel</item>
+        <item>Emperor Penguin</item>
+        <item>Parrot</item>
+        <item>White Rhinoceros</item>
+        <item>Sea Otter</item>
+        <item>Cottontail Rabbit</item>                                              
+    </string-array>
+    <string-array name="idArray">
+        <item>@drawable/character01</item>
+        <item>@drawable/character02</item>
+        <item>@drawable/character03</item>
+        <item>@drawable/character04</item>
+        <item>@drawable/character05</item>
+        <item>@drawable/character06</item>
+        <item>@drawable/character07</item>
+        <item>@drawable/character08</item>
+        <item>@drawable/character09</item>
+        <item>@drawable/character10</item>
+        <item>@drawable/character11</item>
+        <item>@drawable/character12</item>
+        <item>@drawable/character13</item>
+        <item>@drawable/character14</item>
+        <item>@drawable/character15</item>
+        <item>@drawable/character16</item>
+        <item>@drawable/character17</item>
+        <item>@drawable/character18</item>
+        <item>@drawable/character19</item>
+        <item>@drawable/character20</item>
+        <item>@drawable/character21</item>
+        <item>@drawable/character22</item>
+        <item>@drawable/character23</item>
+        <item>@drawable/character24</item>
+        <item>@drawable/character25</item>
+        <item>@drawable/character26</item>
+        <item>@drawable/character27</item>
+        <item>@drawable/character28</item>
+        <item>@drawable/character29</item>
+        <item>@drawable/character30</item>
+        <item>@drawable/character31</item>
+        <item>@drawable/character32</item>
+        <item>@drawable/character33</item>
+        <item>@drawable/character34</item>
+        <item>@drawable/character35</item>
+        <item>@drawable/character36</item>
+        <item>@drawable/character37</item>
+        <item>@drawable/character38</item>
+        <item>@drawable/character39</item>
+        <item>@drawable/character40</item>
+    </string-array>
+    
+    <string-array name="prefs_volume_names">
+        <item>HDMI Out</item>
+        <item>Media Stream</item>
+    </string-array>
+    <string-array name="prefs_termination_policy_names">
+        <item>Continue application on TV</item>
+        <item>Stop application on TV</item>
+    </string-array>
+
+    <!-- Do not translate below this line -->
+    <string-array name="prefs_volume_values">
+        <item>device</item>
+        <item>stream</item>
+    </string-array>
+    <string-array name="prefs_termination_policy_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+</resources>

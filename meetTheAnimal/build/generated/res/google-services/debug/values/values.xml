@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">448586695196-t4kdir8le00tp8dk74fgvrgdupuhaatb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://storybook-meettheanimal.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">448586695196</string>
+    <string name="google_api_key" translatable="false">AIzaSyAeYeWhLQNZzDF_iPO57JCEZ83gSlaQZXk</string>
+    <string name="google_app_id" translatable="false">1:448586695196:android:e24e73f99d2c6b16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAeYeWhLQNZzDF_iPO57JCEZ83gSlaQZXk</string>
+    <string name="google_storage_bucket" translatable="false">storybook-meettheanimal.appspot.com</string>
+    <string name="project_id" translatable="false">storybook-meettheanimal</string>
+</resources>

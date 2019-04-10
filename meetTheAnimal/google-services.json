@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448586695196",
+    "firebase_url": "https://storybook-meettheanimal.firebaseio.com",
+    "project_id": "storybook-meettheanimal",
+    "storage_bucket": "storybook-meettheanimal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448586695196:android:e24e73f99d2c6b16",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.meettheanimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448586695196-t4kdir8le00tp8dk74fgvrgdupuhaatb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYeWhLQNZzDF_iPO57JCEZ83gSlaQZXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448586695196-t4kdir8le00tp8dk74fgvrgdupuhaatb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
